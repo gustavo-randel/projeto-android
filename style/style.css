@@ -84,8 +84,6 @@ nav{
 }
 
     nav > a{
-        max-width: 300px;
-        min-width: 300px;
         padding: 10px;
         text-decoration: none;
         color: var(--cor1);
